@@ -1,6 +1,6 @@
 <div align="center">
 
-  # CardaniH
+  # Carlos Daniel
 
   <h3>Software Engineer & Product Developer</h3>
   
@@ -14,7 +14,7 @@
 
   <a href="#projects"><strong>View Projects / Ver Proyectos</strong></a> · 
   <a href="#stack"><strong>Tech Stack</strong></a> · 
-  <a href="https://linkedin.com/in/TU_USUARIO"><strong>LinkedIn</strong></a>
+  <a href="https://co.linkedin.com/in/carlos-rengifo-9921a7264"><strong>LinkedIn</strong></a>
 
 </div>
 
