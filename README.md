@@ -20,7 +20,7 @@
 
 <br>
 
-## ⚡ About / Sobre mí
+##  About / Sobre mí
 
 I specialize in architecting **scalable web applications** and **native desktop tools**. My approach blends corporate robustness with indie agility—delivering enterprise ERPs with the same polish as modern SaaS products. I focus on process automation, modular frontend architectures, and real-time data flows.
 
@@ -28,7 +28,7 @@ I specialize in architecting **scalable web applications** and **native desktop 
 
 ---
 
-## 💎 Featured Work / Proyectos Destacados
+##  Featured Work / Proyectos Destacados
 
 | Project / Proyecto | Tech Stack | Description |
 | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ I specialize in architecting **scalable web applications** and **native desktop 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 I choose the right tool for the job, ranging from high-concurrency backends to reactive frontends.
 <br>
@@ -67,11 +67,10 @@ _Elijo la herramienta correcta para el trabajo, desde backends de alta concurren
 
 ---
 
-## 📊 Activity
+##  Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CardaniH&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CardaniH&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117" height="160" alt="Top Langs" />
+ 
 </div>
 
 <br>
