@@ -72,7 +72,7 @@ A centralized ecosystem for operations, including dynamic RBAC permissions, docu
 ### Digiturno
 **SaaS Queue Management · Gestión de Filas**
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
