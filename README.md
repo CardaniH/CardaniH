@@ -18,17 +18,18 @@
 
 ---
 
-### 🔗 Quick Links
+### Quick Links
 
-<a href="#-featured-work--proyectos-destacados"><strong>📂 Projects</strong></a> · 
-<a href="#-tech-stack"><strong>⚡ Tech Stack</strong></a> · 
-<a href="https://co.linkedin.com/in/carlos-rengifo-9921a7264"><strong>💼 LinkedIn</strong></a>
+<a href="#featured-work--proyectos-destacados"><strong>Projects</strong></a> · 
+<a href="#tech-stack"><strong>Tech Stack</strong></a> · 
+<a href="#github-stats--estadísticas"><strong>Stats</strong></a> · 
+<a href="https://co.linkedin.com/in/carlos-rengifo-9921a7264"><strong>LinkedIn</strong></a>
 
 </div>
 
 <br>
 
-## 👨‍💻 About / Sobre mí
+## About / Sobre mí
 
 I specialize in architecting **scalable web applications** and **native desktop tools**. My approach blends corporate robustness with indie agility—delivering enterprise ERPs with the same polish as modern SaaS products. I focus on **process automation**, **modular frontend architectures**, and **real-time data flows**.
 
@@ -37,23 +38,24 @@ I specialize in architecting **scalable web applications** and **native desktop 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ### What I Do / Lo que hago:
-- 🏢 **Enterprise Systems** – Full-stack ERPs with RBAC & document automation
-- 🚀 **SaaS Products** – Multi-tenant architectures with real-time updates
-- 💻 **Desktop Apps** – High-performance native tools with Go & Wails
-- ⚡ **Backend APIs** – RESTful & real-time services (Laravel, NestJS, FastAPI)
-- 🎨 **Modern Frontends** – React, Vue, Next.js with TypeScript
+
+- **Enterprise Systems** – Full-stack ERPs with RBAC & document automation
+- **SaaS Products** – Multi-tenant architectures with real-time updates
+- **Desktop Apps** – High-performance native tools with Go & Wails
+- **Backend APIs** – RESTful & real-time services (Laravel, NestJS, FastAPI)
+- **Modern Frontends** – React, Vue, Next.js with TypeScript
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured Work / Proyectos Destacados
+## Featured Work / Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%">
 
-### 🏢 Tamara Intranet
+### Tamara Intranet
 **Enterprise ERP · Sistema Empresarial**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -67,7 +69,7 @@ A centralized ecosystem for operations, including dynamic RBAC permissions, docu
 </td>
 <td width="50%">
 
-### 📱 Digiturno
+### Digiturno
 **SaaS Queue Management · Gestión de Filas**
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
@@ -84,7 +86,7 @@ Multi-tenant queue system with real-time TV displays and adaptive interfaces for
 <tr>
 <td width="50%">
 
-### 📄 PDF Organizer
+### PDF Organizer
 **Desktop Tool · Herramienta de Escritorio**
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -98,7 +100,7 @@ Native, high-performance application for local PDF manipulation, merging, and or
 </td>
 <td width="50%">
 
-### 💰 CuentaMe
+### CuentaMe
 **Full Stack App · Aplicación Full Stack**
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -115,7 +117,7 @@ Financial and operational data tracking with strict typing and modern state mana
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -125,7 +127,7 @@ Financial and operational data tracking with strict typing and modern state mana
 
 </div>
 
-### 🎨 Frontend & Desktop
+### Frontend & Desktop
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28" />
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" height="28" />
@@ -136,7 +138,7 @@ Financial and operational data tracking with strict typing and modern state mana
 <img src="https://img.shields.io/badge/Wails-CC3534?style=for-the-badge&logo=wails&logoColor=white" height="28" />
 </p>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 <p>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="28" />
@@ -146,7 +148,7 @@ Financial and operational data tracking with strict typing and modern state mana
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
 </p>
 
-### 🗄️ Databases & Infrastructure
+### Databases & Infrastructure
 <p>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
@@ -156,7 +158,7 @@ Financial and operational data tracking with strict typing and modern state mana
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="28" />
 </p>
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
@@ -168,7 +170,7 @@ Financial and operational data tracking with strict typing and modern state mana
 
 ---
 
-## 📊 GitHub Stats / Estadísticas
+## GitHub Stats / Estadísticas
 
 <div align="center">
   
@@ -182,7 +184,7 @@ Financial and operational data tracking with strict typing and modern state mana
 
 ---
 
-## 🏆 Achievements / Logros
+## Achievements / Logros
 
 <div align="center">
 
@@ -194,11 +196,11 @@ Financial and operational data tracking with strict typing and modern state mana
 
 <div align="center">
 
-### 💬 Let's Connect / Conectemos
+### Let's Connect / Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://co.linkedin.com/in/carlos-rengifo-9921a7264)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@ejemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tuportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rengifoc30h@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 
 <br>
 
@@ -208,6 +210,6 @@ Financial and operational data tracking with strict typing and modern state mana
 
 ---
 
-<sub>⚡ Powered by passion for clean code and scalable systems</sub>
+<sub>Powered by passion for clean code and scalable systems</sub>
 
 </div>
