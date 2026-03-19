@@ -169,22 +169,9 @@ Financial and operational data tracking with strict typing and modern state mana
 
 ---
 
-## Achievements / Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=CardaniH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
----
-
 ## GitHub Stats / Estadísticas
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CardaniH&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CardaniH&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CardaniH&theme=tokyonight&hide_border=true" />
