@@ -13,7 +13,6 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20SaaS-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Barranquilla%2C%20CO-yellow?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=CardaniH&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
