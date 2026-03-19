@@ -13,7 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20SaaS-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Based%20in-Barranquilla%2C%20CO-yellow?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=TUUSERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CardaniH&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
@@ -174,8 +174,21 @@ Financial and operational data tracking with strict typing and modern state mana
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TUUSERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=CardaniH&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
+</div>
+
+---
+
+## GitHub Stats / Estadísticas
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CardaniH&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CardaniH&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CardaniH&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -199,3 +212,4 @@ Financial and operational data tracking with strict typing and modern state mana
 <sub>Powered by passion for clean code and scalable systems</sub>
 
 </div>
+
